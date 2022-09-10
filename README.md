@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm **Angst Gregory**
 
-I'm Angst a teacher, mentor, and motivated computer science major with experience working with C++, Python, Javascript, React and Bash languages and multiple CI/CD pipelines. Knowledgable on full stack development with a express interest in front end development (Based in React). Excellent problem-solving and time managment skills. [resume.pdf](./resume.pdf)
+I'm Angst a motivated computer science major with experience working with C++, Python, Javascript
 
 ## Current Projects
 
