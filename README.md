@@ -1,4 +1,5 @@
-![c](https://user-images.githubusercontent.com/58962478/189824835-0b7cab9e-0b4a-44fa-b0b0-5dbef6513800.gif)
+![c](https://user-images.githubusercontent.com/58962478/189824835-0b7cab9e-0b4a-44fa-b0b0-5dbef6513800.gif){
+width = "100%"}
 
 
 
