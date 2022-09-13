@@ -1,4 +1,5 @@
-![10_coding_dribbble](https://user-images.githubusercontent.com/58962478/189824391-57b36c9e-dd2c-476e-bdfe-129ef456679e.gif)
+![c](https://user-images.githubusercontent.com/58962478/189824835-0b7cab9e-0b4a-44fa-b0b0-5dbef6513800.gif)
+
 
 
 ### Hi there 👋 I'm **Angst Gregory**
