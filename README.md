@@ -1,5 +1,5 @@
-img = url("https://64.media.tumblr.com/214b2cfdfb22eea881ed40a112a05c03/tumblr_noo8cpsHnb1s68p7oo1_640.gifv");
 
+![c](https://user-images.githubusercontent.com/58962478/189827073-7f1e50ad-593e-4418-983b-b5f3f1812fb3.gif)
 
 
 ### Hi there 👋 I'm **Angst Gregory**
