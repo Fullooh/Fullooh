@@ -1,4 +1,4 @@
-![c](https://user-images.githubusercontent.com/58962478/189824835-0b7cab9e-0b4a-44fa-b0b0-5dbef6513800.gif)
+img = url("https://64.media.tumblr.com/214b2cfdfb22eea881ed40a112a05c03/tumblr_noo8cpsHnb1s68p7oo1_640.gifv");
 
 
 
